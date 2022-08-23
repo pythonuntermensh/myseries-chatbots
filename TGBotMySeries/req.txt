@@ -1,0 +1,5 @@
+aiogram
+environs
+requests
+asyncio
+pillow
